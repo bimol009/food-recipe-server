@@ -1,11 +1,13 @@
 const express = require("express");
 const app = express();
-const port = 5000;
+const cors = require("cors");
+const port = process.env.PORT || 5000;
 
 app.use(cors())
 
 const categories = require("./data/category.json");
 const recipes = require("./data/food.json");
+
 
 app.get("/", (req, res) => {
   res.send("gello World!");
