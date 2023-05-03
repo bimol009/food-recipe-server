@@ -1,26 +1,46 @@
 [
     {
-        "id": "0",
-        "name": "All News"
+        "id": "0"
+       
     },
     {
         "id": "1",
-        "name": "Cox's Bazar"
+        "chef_name": "Salman srilanka",
+        "chef_picture": "https://ibb.co/5MYQcw7",
+        "experience": 4,
+        "no_of_recipe": 3,
+        "likes": 4256
     },
     {
         "id": "2",
-        "name": "Shree Mangal"
+        "chef_name": "Jhon chinese",
+        "chef_picture": "https://ibb.co/nzfy3n8",
+        "experience": 4,
+        "no_of_recipe": 3,
+        "likes": 4256
     },
     {
         "id": "3",
-        "name": "SAJEK"
+        "chef_name": "Don thai",
+        "chef_picture": "https://ibb.co/sCCWTDd",
+        "experience": 4,
+        "no_of_recipe": 3,
+        "likes": 4256
     },
     {
         "id": "4",
-        "name": "SYLHET"
+        "chef_name": "Don thai",
+        "chef_picture": "https://ibb.co/sCCWTDd",
+        "experience": 4,
+        "no_of_recipe": 3,
+        "likes": 4256
     },
     {
         "id": "5",
-        "name": "SUNDARBANS"
+        "chef_name": "Rabib",
+        "chef_picture": "https://ibb.co/sCCWTDd",
+        "experience": 4,
+        "no_of_recipe": 3,
+        "likes": 4256
     }
 ]
