@@ -2,7 +2,7 @@
     
     {
         "id": "1",
-        "chef_name": "Salman srilanka",
+        "chef_name": "Jimmy Dane srilanka",
         "chef_picture": "https://i.ibb.co/zn83fDk/srilanka-Chef.jpg",
         "experience": 4,
         "no_of_recipe": 3,
@@ -10,7 +10,7 @@
     },
     {
         "id": "2",
-        "chef_name": "Jhon chinese",
+        "chef_name": "Filoda chinese",
         "chef_picture": "https://i.ibb.co/7QQk3Td/thai.png",
         "experience": 4,
         "no_of_recipe": 3,
@@ -18,7 +18,7 @@
     },
     {
         "id": "3",
-        "chef_name": "Don thai",
+        "chef_name": "Butter Ali thai",
         "chef_picture": "https://i.ibb.co/GHPfrFK/portrait-positive-smiling-head-chef-standing-professional-restaurant-kitchen-while-looking-camera-co.jpg",
         "experience": 4,
         "no_of_recipe": 3,
@@ -26,7 +26,7 @@
     },
     {
         "id": "4",
-        "chef_name": "Rabiba Bangla",
+        "chef_name": "Miskin ali Bangla",
         "chef_picture": "https://i.ibb.co/SBw0rRp/chef-salts-steak-grill-pan-preparing-fresh-beef-pork-96270-2.jpg",
         "experience": 4,
         "no_of_recipe": 3,
@@ -34,7 +34,7 @@
     },
     {
         "id": "5",
-        "chef_name": "Surayiakumar Indian",
+        "chef_name": "AliBaba Indian",
         "chef_picture": "https://i.ibb.co/jfQ03vG/portrait-smiling-chef-uniform-329181-675.jpg",
         "experience": 4,
         "no_of_recipe": 3,
@@ -42,7 +42,7 @@
     },
     {
         "id": "6",
-        "chef_name": "sayed",
+        "chef_name": "emazon food",
         "chef_picture": "https://i.ibb.co/fFTcPm5/happy-young-cook-uniform-holding-salad-1.jpg",
         "experience": 4,
         "no_of_recipe": 3,
