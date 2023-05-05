@@ -8,6 +8,7 @@
     "recipe_pic": {
       "first": "https://i.ibb.co/zmzn3bS/delicious-fried-chicken-plate-144627-27383.jpg",
       "recipe_pic_name": "chinese",
+      "ingredients": ["Paneer", "Yogurt", "Lemon", "Juice", "Chicken"],
 
       "second": "https://i.ibb.co/fX8NSm1/crispy-fried-chicken-plate-with-salad-carrot-1150-20212.jpg",
       "recipe_pic_name1": "chinese",
@@ -33,6 +34,7 @@
     "recipe_pic": {
       "first": "https://i.ibb.co/zmzn3bS/delicious-fried-chicken-plate-144627-27383.jpg",
       "recipe_pic_name": "chinese",
+      "ingredients": ["Paneer", "Yogurt", "Lemon", "Juice", "Chicken"],
 
       "second": "https://i.ibb.co/fX8NSm1/crispy-fried-chicken-plate-with-salad-carrot-1150-20212.jpg",
       "recipe_pic_name1": "chinese",
@@ -42,6 +44,8 @@
     },
 
     "chef_name": "Filoda chinese",
+    "ingredients": ["Paneer", "Yogurt", "Lemon", "Juice", "Chicken"],
+
     "chef_picture": "https://i.ibb.co/7QQk3Td/thai.png",
     "experience": 4,
     "no_of_recipe": 3,
@@ -59,6 +63,7 @@
     "recipe_pic": {
       "first": "https://i.ibb.co/zmzn3bS/delicious-fried-chicken-plate-144627-27383.jpg",
       "recipe_pic_name": "chinese",
+      "ingredients": ["Paneer", "Yogurt", "Lemon", "Juice", "Chicken"],
 
       "second": "https://i.ibb.co/fX8NSm1/crispy-fried-chicken-plate-with-salad-carrot-1150-20212.jpg",
       "recipe_pic_name1": "chinese",
@@ -84,6 +89,7 @@
     "recipe_pic": {
       "first": "https://i.ibb.co/zmzn3bS/delicious-fried-chicken-plate-144627-27383.jpg",
       "recipe_pic_name": "chinese",
+      "ingredients": ["Paneer", "Yogurt", "Lemon", "Juice", "Chicken"],
 
       "second": "https://i.ibb.co/fX8NSm1/crispy-fried-chicken-plate-with-salad-carrot-1150-20212.jpg",
       "recipe_pic_name1": "chinese",
@@ -106,9 +112,11 @@
     "total_view": 488,
     "title": "Biden Pledges Nearly $4 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
     "banner": "https://i.ibb.co/Fws6SY3/delicious-indian-food-tray-high-angle-23-2148723507.png",
+
     "recipe_pic": {
       "first": "https://i.ibb.co/zmzn3bS/delicious-fried-chicken-plate-144627-27383.jpg",
       "recipe_pic_name": "chinese",
+      "ingredients": ["Paneer", "Yogurt", "Lemon", "Juice", "Chicken"],
 
       "second": "https://i.ibb.co/fX8NSm1/crispy-fried-chicken-plate-with-salad-carrot-1150-20212.jpg",
       "recipe_pic_name1": "chinese",
@@ -134,6 +142,7 @@
     "recipe_pic": {
       "first": "https://i.ibb.co/zmzn3bS/delicious-fried-chicken-plate-144627-27383.jpg",
       "recipe_pic_name": "chinese",
+      "ingredients": ["Paneer", "Yogurt", "Lemon", "Juice", "Chicken"],
 
       "second": "https://i.ibb.co/fX8NSm1/crispy-fried-chicken-plate-with-salad-carrot-1150-20212.jpg",
       "recipe_pic_name1": "chinese",
